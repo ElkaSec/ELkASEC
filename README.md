@@ -24,8 +24,7 @@ I learn a system by taking it apart: binaries, protocols, memory.
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-x86--64-6E4C13?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ghidra-B22222?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GDB-A42E2B?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/radare2-2E2E2E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -50,8 +49,11 @@ I learn a system by taking it apart: binaries, protocols, memory.
 | Secondary OS | CachyOS (COSMIC), on external SSD |
 | Virtualization | QEMU/KVM, Kali Linux |
 
+
 ## 🗺️ Roadmap
 - [ ] Master x86-64 assembly reading
+- [ ] Learn Ghidra (static analysis, decompiler)
+- [ ] Learn GDB (dynamic analysis, with pwndbg or GEF)
 - [ ] Write a minimal exploitation framework in Rust
 - [ ] Publish Root-Me write-ups (Cracking, App-System)
 - [ ] Malware analysis basics (sandbox, behavior, IOCs)
