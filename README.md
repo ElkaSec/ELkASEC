@@ -76,14 +76,14 @@ I learn a system by taking it apart: binaries, protocols, memory.
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+
 ## 🖥️ Work environment
 
 | Layer | Tool |
 |---|---|
-| Machine | Lenovo ThinkPad P14s Gen 6 (Ryzen AI 7 PRO 350, 32 GB DDR5, 1 TB SSD) |
 | Primary OS | Fedora KDE |
-| Secondary OS | CachyOS (COSMIC), on external SSD |
-| Virtualization | QEMU/KVM, Kali Linux |
+| Secondary OS | CachyOS (COSMIC) |
+| Virtualization | QEMU/KVM (Kali Linux) |
 
 ## 🗺️ Roadmap
 
